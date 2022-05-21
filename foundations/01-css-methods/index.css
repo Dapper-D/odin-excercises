@@ -1,0 +1,13 @@
+div{
+    background-color: red;
+    color: white;
+}
+body{
+    background-color: black;
+    margin: 0 auto;
+
+}
+.container{
+    background-color: white;
+    margin-top: 20%;
+}
